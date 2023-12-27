@@ -1,0 +1,6 @@
+# Ignore all files except .mp4 files
+*.prproj
+*.pptx
+*.ipynb
+*.o
+*.out
